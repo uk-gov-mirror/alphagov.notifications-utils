@@ -1,5 +1,10 @@
 # CHANGELOG
 
+
+## 131.2.2
+
+* Ran `make refreeze-requirements` during dependency day
+
 ## 131.2.1
 
 * Fixes a bug with HTML escaping in `template.HTMLEmailTemplate`
